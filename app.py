@@ -1,13 +1,13 @@
 from flask import Flask
 from flask import request, Response, send_from_directory, render_template, request
-from forms import formcalculadora
+from forms import formsumar
 
 app = Flask(__name__)
 
 app.secret_key = 'clave de cifrado lo más robusta posible'
-@app.route("/calculadora_post", methods=["get","post"])
-def calculadora_post():
-	form=formcalculadora(request.form)
+@app.route("/suma", methods=["get","post"])
+def suma():
+	form=formsumar(request.form)
 	if form.validate_on_submit():
 		num1=form.num1.data
 		num2=form.num2.data
@@ -20,8 +20,8 @@ def calculadora_post():
 		return render_template("resultado.html",num1=num1,num2=num2,operador=operador,resultado=resultado)	
 	else:
 		
-		return render_template("calculadora_post.html",form=form)	
+		return render_template("suma.html",form=form)	
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=4000)
+    app.run(debug=True, port=7000)

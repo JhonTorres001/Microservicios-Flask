@@ -1,4 +1,4 @@
-<form action={{url_for("calculadora_post")}} method="post">
+<form action={{url_for("suma")}} method="post">
   {{ form.csrf_token }}
 {{form.num1.label() }}{{form.num1()}}<br/>
 {{form.num2.label() }}{{form.num2()}}<br/>
