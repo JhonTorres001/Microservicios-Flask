@@ -1,5 +1,5 @@
-from flask import Flask
-from flask import request, Response, send_from_directory, render_template, request
+from flask import Flask, jsonify
+from flask import request, Response, send_from_directory, render_template
 from forms import formsumar
 
 app = Flask(__name__)
@@ -17,7 +17,7 @@ def suma():
 		except:
 			return render_template("error.html",error="No puedo realizar la operación")
 		
-		return render_template("resultado.html",num1=num1,num2=num2,operador=operador,resultado=resultado)	
+		return jsonify({"Resultado": resultado,"message":"producto de la Operacion"}) 
 	else:
 		
 		return render_template("suma.html",form=form)	
