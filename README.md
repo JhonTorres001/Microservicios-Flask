@@ -1,5 +1,4 @@
-## Arquitectura de Microservicios-Flask  [![Build Status](https://travis-ci.org/pantsel/konga.svg?branch=master)](https://travis-ci.org/pantsel/konga)    [![Gitter chat](https://badges.gitter.im/pantsel-konga/Lobby.png)](https://gitter.im/pantsel-konga/Lobby)
-
+## Microservicios Con Flask  [![Build Status](https://travis-ci.org/pantsel/konga.svg?branch=master)](https://travis-ci.org/pantsel/konga)    [![Gitter chat](https://badges.gitter.im/pantsel-konga/Lobby.png)](https://gitter.im/pantsel-konga/Lobby)
 
 Ejercicio de microservicios con flask
 
@@ -18,6 +17,7 @@ La explicación de despliegue así como la explicación de las herramientas sele
 - Alejandro Lopez Castañeda       (20201099037)
 - Jhon Fredy Torres Ramírez       (20201099048)
 
+## Arquitectura Propuesta
 
 
 ## Features
