@@ -9,13 +9,6 @@ Se plantea establecer una arquitectura orientada a microservicios usando el micr
  - Multiplicación
  - División.
 
-
-tecnologías seleccionadas para ofrecer los servicios propios de este tipo de arquitecturas teniendo en cuenta que las operaciones se ofrecen con flask.
-
-La explicación de despliegue 
-
-así como la explicación de las herramientas seleccionadas 
-
 # Presentado a: 
 - Ingeniero Alejandro Daza
 
@@ -26,6 +19,25 @@ así como la explicación de las herramientas seleccionadas
 - Jhon Fredy Torres Ramírez       (20201099048)
 
 ## Arquitectura Propuesta
+
+Arquitectura de referencia propuesta de Kong - Kong Inc.
+
+![arq](https://user-images.githubusercontent.com/15526824/79803656-068c2600-8328-11ea-9c14-fba27198ce0a.png)
+
+
+## Herramientas seleccionadas 
+
+- Docker Desktop
+- Flask
+- Kong
+- Konga
+- Posman
+- Insomnia
+- Azure
+
+## Explicación de despliegue 
+
+
 
 
 ## Features
