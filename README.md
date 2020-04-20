@@ -39,6 +39,8 @@ Arquitectura de referencia propuesta de Kong - Kong Inc.
 
 ## Explicación de despliegue 
 
+![Captura de pantalla 2020-04-20 a la(s) 5 24 45 p  m](https://user-images.githubusercontent.com/15526824/79805528-f9713600-832b-11ea-94b9-76094817c33f.png)
+
 
 ## Pugins:
 
@@ -46,8 +48,6 @@ Arquitectura de referencia propuesta de Kong - Kong Inc.
 - JWT
 - Monitereoç
 - Log
-
-
 
 ## License
 ```
