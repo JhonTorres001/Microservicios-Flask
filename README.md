@@ -27,17 +27,20 @@ Arquitectura de referencia propuesta de Kong - Kong Inc.
 
 ## Herramientas seleccionadas 
 
-- Python
-- Docker Desktop
-- Flask
-- Kong
-- Konga
-- Posman
+- Python 3.6
+- Docker Desktop 19.03.8
+- Flask 1.1.2
+- Kong 2.0.3 
+- Konga 2.0.3
 - Insomnia
 - Azure
-- Visual Code
+- VSC
 
 ## Explicación de despliegue
+
+Kong es una capa de abstracción de microservicios nativa de la nube, rápida, escalable y distribuida (también conocida como API Gateway o API Middleware) . Disponible como proyecto de código abierto en 2015, sus valores principales son alto rendimiento y extensibilidad.
+
+Mantenido activamente, Kong es ampliamente utilizado en la producción en compañías que van desde nuevas empresas hasta Global 5000, así como organizaciones gubernamentales.
 
 ### Instalar Kong
 
@@ -88,7 +91,6 @@ http DELETE $host:8001/consumers/alice/key-auth/1111
 https://github.com/pantsel/konga/blob/master/README.md
 
 ![Captura de pantalla 2020-04-20 a la(s) 5 24 45 p  m](https://user-images.githubusercontent.com/15526824/79805528-f9713600-832b-11ea-94b9-76094817c33f.png)
-
 
 ## Pugins:
 
