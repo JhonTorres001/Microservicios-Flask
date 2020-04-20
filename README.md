@@ -8,8 +8,12 @@ En el repositorio se deben exponer las tecnologías seleccionadas para ofrecer l
 
 La explicación de despliegue así como la explicación de las herramientas seleccionadas debe ser clara en el README del proyecto
 
-# Presentado a: Alejandro Daza
+# Presentado por: 
+- Ingeniero Alejandro Daza
 
-# Presentado por:
+# Integrantes:
 
+- Wilson Heli Villamizar Valencia (20201099050) 
+- Alejandro Lopez Castañeda       (20201099037)
+- Jhon Fredy Torres Ramírez       (20201099048)
 
