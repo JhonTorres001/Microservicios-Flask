@@ -106,6 +106,7 @@ https://github.com/pantsel/konga/blob/master/README.md
 
 Licencia de estudiante
 
+![WhatsApp Image 2020-04-20 at 5 40 09 PM](https://user-images.githubusercontent.com/15526824/79806996-55898980-832f-11ea-8b07-8c7dab03e912.jpeg)
 
 
 ## License
