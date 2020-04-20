@@ -21,6 +21,10 @@ Se plantea establecer una arquitectura orientada a microservicios usando el micr
 - Alejandro Lopez Castañeda       (20201099037)
 - Jhon Fredy Torres Ramírez       (20201099048)
 
+## Qúe es Flask
+
+Flask es un marco web micro escrito en Python . Se clasifica como un microframework porque no requiere herramientas o bibliotecas particulares. No tiene una capa de abstracción de base de datos, validación de formularios ni ningún otro componente donde las bibliotecas de terceros preexistentes brinden funciones comunes. Sin embargo, Flask admite extensiones que pueden agregar características de la aplicación como si se implementaran en el propio Flask. Existen extensiones para mapeadores relacionales de objetos, validación de formularios, manejo de carga, varias tecnologías de autenticación abiertas y varias herramientas relacionadas con el marco común. Las extensiones se actualizan con mucha más frecuencia que el programa central Flask.
+
 ## Arquitectura Propuesta
 
 Arquitectura de referencia propuesta de Kong - Kong Inc.
