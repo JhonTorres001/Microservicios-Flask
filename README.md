@@ -10,6 +10,7 @@ Se plantea establecer una arquitectura orientada a microservicios usando el micr
  - División.
 
 # Presentado a: 
+
 - Ingeniero Alejandro Daza
 
 # Integrantes:
@@ -89,6 +90,10 @@ http DELETE $host:8001/consumers/alice/key-auth/1111
 
 ### Instalacion Konga
 https://github.com/pantsel/konga/blob/master/README.md
+
+![Captura de pantalla 2020-04-20 a la(s) 5 51 04 p  m](https://user-images.githubusercontent.com/15526824/79807127-a7321400-832f-11ea-951b-633eca0f3c53.png)
+
+## Imagenes Docker
 
 ![Captura de pantalla 2020-04-20 a la(s) 5 24 45 p  m](https://user-images.githubusercontent.com/15526824/79805528-f9713600-832b-11ea-94b9-76094817c33f.png)
 
