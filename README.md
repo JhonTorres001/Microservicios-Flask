@@ -102,6 +102,12 @@ https://github.com/pantsel/konga/blob/master/README.md
 - Transformations
 - Logging
 
+## Despliegue de Api's REST en Azure
+
+Licencia de estudiante
+
+
+
 ## License
 ```
 The MIT License (MIT)
